@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  background-color: #0f172a;   /* Dark forensic background */
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
+
+h2 {
+  color: #38bdf8;
+  margin-bottom: 10px;
+}
+
+input[type="file"] {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.graph-box {
+  height: 520px;
+  border: 1px solid #1e293b;
+  border-radius: 12px;
+  background-color: #020617;
+  box-shadow: 0 0 25px rgba(56, 189, 248, 0.15);
+  margin-top: 15px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 18px;
+  background-color: #38bdf8;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #0ea5e9;
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #020617;
+}
+
+th {
+  background-color: #0ea5e9;
+  color: white;
+  padding: 8px;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid #1e293b;
+}

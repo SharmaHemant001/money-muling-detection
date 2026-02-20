@@ -1,0 +1,6341 @@
+{
+  "suspicious_accounts": [
+    {
+      "account_id": "CYCLE_0_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_050",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_0_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_050",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_0_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_050",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_1_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_049",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_1_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_049",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_1_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_049",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_2_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_048",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_2_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_048",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_2_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_048",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_3_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_047",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_3_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_047",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_3_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_047",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_4_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_046",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_4_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_046",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_4_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_046",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_5_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_045",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_5_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_045",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_5_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_045",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_6_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_044",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_6_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_044",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_6_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_044",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_7_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_043",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_7_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_043",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_7_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_043",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_8_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_042",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_8_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_042",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_8_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_042",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_9_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_041",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_9_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_041",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_9_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_041",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_10_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_040",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_10_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_040",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_10_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_040",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_11_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_039",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_11_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_039",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_11_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_039",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_12_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_038",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_12_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_038",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_12_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_038",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_13_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_037",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_13_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_037",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_13_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_037",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_14_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_036",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_14_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_036",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_14_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_036",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_15_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_035",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_15_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_035",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_15_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_035",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_16_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_034",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_16_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_034",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_16_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_034",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_17_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_033",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_17_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_033",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_17_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_033",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_18_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_032",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_18_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_032",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_18_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_032",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_19_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_031",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_19_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_031",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_19_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_031",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_20_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_030",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_20_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_030",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_20_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_030",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_21_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_029",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_21_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_029",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_21_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_029",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_22_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_028",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_22_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_028",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_22_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_028",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_23_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_027",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_23_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_027",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_23_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_027",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_24_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_026",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_24_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_026",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_24_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_026",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_25_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_025",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_25_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_025",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_25_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_025",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_26_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_024",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_26_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_024",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_26_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_024",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_27_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_023",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_27_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_023",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_27_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_023",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_28_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_022",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_28_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_022",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_28_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_022",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_29_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_021",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_29_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_021",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_29_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_021",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_30_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_020",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_30_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_020",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_30_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_020",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_31_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_019",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_31_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_019",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_31_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_019",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_32_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_018",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_32_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_018",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_32_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_018",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_33_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_017",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_33_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_017",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_33_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_017",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_34_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_016",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_34_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_016",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_34_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_016",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_35_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_015",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_35_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_015",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_35_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_015",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_36_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_014",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_36_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_014",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_36_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_014",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_37_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_013",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_37_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_013",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_37_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_013",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_38_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_012",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_38_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_012",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_38_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_012",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_39_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_011",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_39_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_011",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_39_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_011",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_40_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_010",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_40_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_010",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_40_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_010",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_41_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_009",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_41_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_009",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_41_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_009",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_42_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_008",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_42_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_008",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_42_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_008",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_43_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_007",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_43_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_007",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_43_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_007",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_44_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_006",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_44_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_006",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_44_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_006",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_45_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_005",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_45_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_005",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_45_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_005",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_46_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_004",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_46_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_004",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_46_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_004",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_47_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_003",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_47_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_003",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_47_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_003",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_48_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_002",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_48_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_002",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_48_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_002",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_49_0",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_001",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_49_1",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_001",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "CYCLE_49_2",
+      "suspicion_score": 60.0,
+      "detected_patterns": [
+        "shell",
+        "cycle"
+      ],
+      "ring_id": "RING_001",
+      "explanation": "Flagged due to: cycle, shell"
+    },
+    {
+      "account_id": "AGG_0",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_051",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_1",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_052",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_2",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_063",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_3",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_074",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_4",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_075",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_5",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_076",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_6",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_077",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_7",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_078",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_8",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_079",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_9",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_080",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_10",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_053",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_11",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_054",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_12",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_055",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_13",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_056",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_14",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_057",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_15",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_058",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_16",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_059",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_17",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_060",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_18",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_061",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_19",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_062",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_20",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_064",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_21",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_065",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_22",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_066",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_23",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_067",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_24",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_068",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_25",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_069",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_26",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_070",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_27",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_071",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_28",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_072",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "AGG_29",
+      "suspicion_score": 25.0,
+      "detected_patterns": [
+        "smurfing"
+      ],
+      "ring_id": "RING_073",
+      "explanation": "Flagged due to: smurfing"
+    },
+    {
+      "account_id": "SHELL_0_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_095",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_0_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_095",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_0_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_095",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_0_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_095",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_1_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_115",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_1_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_115",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_1_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_115",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_1_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_115",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_2_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_148",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_2_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_148",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_2_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_148",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_2_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_148",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_3_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_139",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_3_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_139",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_3_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_139",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_3_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_139",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_4_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_144",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_4_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_144",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_4_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_144",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_4_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_144",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_5_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_124",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_5_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_124",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_5_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_124",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_5_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_124",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_6_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_081",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_6_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_081",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_6_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_081",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_6_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_081",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_7_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_155",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_7_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_155",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_7_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_155",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_7_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_155",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_8_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_138",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_8_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_138",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_8_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_138",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_8_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_138",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_9_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_121",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_9_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_121",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_9_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_121",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_9_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_121",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_10_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_157",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_10_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_157",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_10_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_157",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_10_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_157",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_11_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_126",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_11_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_126",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_11_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_126",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_11_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_126",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_12_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_128",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_12_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_128",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_12_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_128",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_12_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_128",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_13_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_159",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_13_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_159",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_13_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_159",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_13_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_159",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_14_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_120",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_14_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_120",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_14_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_120",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_14_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_120",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_15_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_122",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_15_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_122",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_15_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_122",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_15_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_122",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_16_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_086",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_16_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_086",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_16_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_086",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_16_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_086",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_17_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_140",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_17_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_140",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_17_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_140",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_17_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_140",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_18_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_116",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_18_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_116",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_18_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_116",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_18_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_116",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_19_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_109",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_19_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_109",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_19_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_109",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_19_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_109",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_20_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_093",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_20_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_093",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_20_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_093",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_20_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_093",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_21_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_147",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_21_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_147",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_21_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_147",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_21_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_147",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_22_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_158",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_22_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_158",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_22_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_158",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_22_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_158",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_23_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_127",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_23_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_127",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_23_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_127",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_23_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_127",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_24_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_118",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_24_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_118",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_24_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_118",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_24_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_118",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_25_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_114",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_25_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_114",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_25_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_114",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_25_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_114",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_26_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_100",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_26_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_100",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_26_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_100",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_26_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_100",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_27_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_146",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_27_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_146",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_27_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_146",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_27_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_146",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_28_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_153",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_28_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_153",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_28_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_153",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_28_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_153",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_29_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_156",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_29_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_156",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_29_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_156",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_29_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_156",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_30_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_150",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_30_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_150",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_30_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_150",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_30_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_150",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_31_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_145",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_31_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_145",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_31_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_145",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_31_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_145",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_32_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_090",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_32_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_090",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_32_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_090",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_32_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_090",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_33_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_089",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_33_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_089",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_33_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_089",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_33_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_089",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_34_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_101",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_34_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_101",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_34_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_101",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_34_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_101",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_35_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_135",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_35_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_135",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_35_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_135",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_35_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_135",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_36_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_096",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_36_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_096",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_36_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_096",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_36_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_096",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_37_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_094",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_37_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_094",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_37_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_094",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_37_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_094",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_38_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_111",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_38_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_111",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_38_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_111",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_38_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_111",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_39_0",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_082",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_39_1",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_082",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_39_2",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_082",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "SHELL_39_3",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_082",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_203",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_083",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2659",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_083",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3290",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_119",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_597",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_097",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2763",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_097",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1451",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_092",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3163",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_092",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1943",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_103",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_484",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_088",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3570",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_088",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_963",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_099",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2006",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_110",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1628",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_102",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2241",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_102",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_715",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_117",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1021",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_133",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3312",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_133",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_655",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_084",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1972",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_106",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1568",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_142",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2812",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_142",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3211",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_134",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1801",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_137",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2961",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_137",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_473",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_108",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1940",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_136",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3278",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_136",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1147",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_152",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1362",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_112",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2101",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_112",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3121",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_141",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1310",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_099",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2126",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_099",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3489",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_102",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_435",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_117",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1074",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_132",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1275",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_130",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2761",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_130",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_975",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_117",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1595",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_143",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_32",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_105",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3536",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_106",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1311",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_098",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_177",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_136",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2936",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_137",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1091",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_131",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2629",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_125",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3330",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_097",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2347",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_105",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_961",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_092",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3155",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_091",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_238",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_112",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1183",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_113",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2238",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_113",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3762",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_151",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1242",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_105",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2380",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_104",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3748",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_129",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1247",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_085",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3629",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_085",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1710",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_107",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2139",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_117",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_648",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_123",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2420",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_107",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3633",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_103",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_919",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_084",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2179",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_084",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2960",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_143",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3806",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_142",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2152",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_098",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_365",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_104",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3597",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_104",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_368",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_106",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2174",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_106",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1583",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_137",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2176",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_087",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_387",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_108",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3009",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_108",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_332",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_103",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_957",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_152",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3004",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_152",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3591",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_085",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2271",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_087",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2476",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_133",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1693",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_149",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2235",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_149",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2614",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_113",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3369",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_098",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1395",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_131",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3780",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_132",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3999",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_119",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_370",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_141",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3989",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_141",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1365",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_151",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_120",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_091",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2342",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_091",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3538",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_154",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1278",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_119",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1100",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_087",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_553",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_154",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1727",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_087",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_756",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_123",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1033",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_154",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1721",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_104",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1488",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_151",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_828",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_099",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3024",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_131",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3139",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_123",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_205",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_110",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1185",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_107",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_82",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_083",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_694",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_134",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3946",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_134",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1471",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_113",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3316",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_104",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_557",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_130",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2504",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_125",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_109",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_129",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3834",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_092",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_80",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_098",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1656",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_125",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1372",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_102",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_542",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_132",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_688",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_149",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1930",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_134",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_582",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_088",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_3259",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_143",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2597",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_132",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_1500",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_110",
+      "explanation": "Flagged due to: shell"
+    },
+    {
+      "account_id": "NORMAL_2630",
+      "suspicion_score": 20.0,
+      "detected_patterns": [
+        "shell"
+      ],
+      "ring_id": "RING_129",
+      "explanation": "Flagged due to: shell"
+    }
+  ],
+  "fraud_rings": [
+    {
+      "ring_id": "RING_001",
+      "member_accounts": [
+        "CYCLE_49_0",
+        "CYCLE_49_2",
+        "CYCLE_49_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_002",
+      "member_accounts": [
+        "CYCLE_48_2",
+        "CYCLE_48_1",
+        "CYCLE_48_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_003",
+      "member_accounts": [
+        "CYCLE_47_0",
+        "CYCLE_47_2",
+        "CYCLE_47_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_004",
+      "member_accounts": [
+        "CYCLE_46_1",
+        "CYCLE_46_0",
+        "CYCLE_46_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_005",
+      "member_accounts": [
+        "CYCLE_45_2",
+        "CYCLE_45_0",
+        "CYCLE_45_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_006",
+      "member_accounts": [
+        "CYCLE_44_1",
+        "CYCLE_44_0",
+        "CYCLE_44_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_007",
+      "member_accounts": [
+        "CYCLE_43_0",
+        "CYCLE_43_1",
+        "CYCLE_43_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_008",
+      "member_accounts": [
+        "CYCLE_42_0",
+        "CYCLE_42_1",
+        "CYCLE_42_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_009",
+      "member_accounts": [
+        "CYCLE_41_0",
+        "CYCLE_41_2",
+        "CYCLE_41_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_010",
+      "member_accounts": [
+        "CYCLE_40_0",
+        "CYCLE_40_2",
+        "CYCLE_40_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_011",
+      "member_accounts": [
+        "CYCLE_39_2",
+        "CYCLE_39_0",
+        "CYCLE_39_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_012",
+      "member_accounts": [
+        "CYCLE_38_0",
+        "CYCLE_38_1",
+        "CYCLE_38_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_013",
+      "member_accounts": [
+        "CYCLE_37_1",
+        "CYCLE_37_2",
+        "CYCLE_37_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_014",
+      "member_accounts": [
+        "CYCLE_36_2",
+        "CYCLE_36_0",
+        "CYCLE_36_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_015",
+      "member_accounts": [
+        "CYCLE_35_2",
+        "CYCLE_35_0",
+        "CYCLE_35_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_016",
+      "member_accounts": [
+        "CYCLE_34_0",
+        "CYCLE_34_1",
+        "CYCLE_34_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_017",
+      "member_accounts": [
+        "CYCLE_33_0",
+        "CYCLE_33_2",
+        "CYCLE_33_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_018",
+      "member_accounts": [
+        "CYCLE_32_1",
+        "CYCLE_32_2",
+        "CYCLE_32_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_019",
+      "member_accounts": [
+        "CYCLE_31_1",
+        "CYCLE_31_2",
+        "CYCLE_31_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_020",
+      "member_accounts": [
+        "CYCLE_30_1",
+        "CYCLE_30_2",
+        "CYCLE_30_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_021",
+      "member_accounts": [
+        "CYCLE_29_0",
+        "CYCLE_29_2",
+        "CYCLE_29_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_022",
+      "member_accounts": [
+        "CYCLE_28_2",
+        "CYCLE_28_1",
+        "CYCLE_28_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_023",
+      "member_accounts": [
+        "CYCLE_27_2",
+        "CYCLE_27_1",
+        "CYCLE_27_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_024",
+      "member_accounts": [
+        "CYCLE_26_1",
+        "CYCLE_26_2",
+        "CYCLE_26_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_025",
+      "member_accounts": [
+        "CYCLE_25_2",
+        "CYCLE_25_1",
+        "CYCLE_25_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_026",
+      "member_accounts": [
+        "CYCLE_24_1",
+        "CYCLE_24_2",
+        "CYCLE_24_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_027",
+      "member_accounts": [
+        "CYCLE_23_0",
+        "CYCLE_23_2",
+        "CYCLE_23_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_028",
+      "member_accounts": [
+        "CYCLE_22_0",
+        "CYCLE_22_1",
+        "CYCLE_22_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_029",
+      "member_accounts": [
+        "CYCLE_21_0",
+        "CYCLE_21_2",
+        "CYCLE_21_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_030",
+      "member_accounts": [
+        "CYCLE_20_1",
+        "CYCLE_20_2",
+        "CYCLE_20_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_031",
+      "member_accounts": [
+        "CYCLE_19_2",
+        "CYCLE_19_1",
+        "CYCLE_19_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_032",
+      "member_accounts": [
+        "CYCLE_18_2",
+        "CYCLE_18_1",
+        "CYCLE_18_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_033",
+      "member_accounts": [
+        "CYCLE_17_1",
+        "CYCLE_17_0",
+        "CYCLE_17_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_034",
+      "member_accounts": [
+        "CYCLE_16_0",
+        "CYCLE_16_2",
+        "CYCLE_16_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_035",
+      "member_accounts": [
+        "CYCLE_15_2",
+        "CYCLE_15_1",
+        "CYCLE_15_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_036",
+      "member_accounts": [
+        "CYCLE_14_1",
+        "CYCLE_14_2",
+        "CYCLE_14_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_037",
+      "member_accounts": [
+        "CYCLE_13_0",
+        "CYCLE_13_1",
+        "CYCLE_13_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_038",
+      "member_accounts": [
+        "CYCLE_12_1",
+        "CYCLE_12_0",
+        "CYCLE_12_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_039",
+      "member_accounts": [
+        "CYCLE_11_0",
+        "CYCLE_11_1",
+        "CYCLE_11_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_040",
+      "member_accounts": [
+        "CYCLE_10_0",
+        "CYCLE_10_2",
+        "CYCLE_10_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_041",
+      "member_accounts": [
+        "CYCLE_9_0",
+        "CYCLE_9_1",
+        "CYCLE_9_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_042",
+      "member_accounts": [
+        "CYCLE_8_0",
+        "CYCLE_8_2",
+        "CYCLE_8_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_043",
+      "member_accounts": [
+        "CYCLE_7_0",
+        "CYCLE_7_2",
+        "CYCLE_7_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_044",
+      "member_accounts": [
+        "CYCLE_6_2",
+        "CYCLE_6_1",
+        "CYCLE_6_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_045",
+      "member_accounts": [
+        "CYCLE_5_1",
+        "CYCLE_5_0",
+        "CYCLE_5_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_046",
+      "member_accounts": [
+        "CYCLE_4_0",
+        "CYCLE_4_2",
+        "CYCLE_4_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_047",
+      "member_accounts": [
+        "CYCLE_3_1",
+        "CYCLE_3_2",
+        "CYCLE_3_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_048",
+      "member_accounts": [
+        "CYCLE_2_0",
+        "CYCLE_2_2",
+        "CYCLE_2_1"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_049",
+      "member_accounts": [
+        "CYCLE_1_0",
+        "CYCLE_1_1",
+        "CYCLE_1_2"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_050",
+      "member_accounts": [
+        "CYCLE_0_1",
+        "CYCLE_0_2",
+        "CYCLE_0_0"
+      ],
+      "pattern_type": "cycle",
+      "risk_score": 60.0
+    },
+    {
+      "ring_id": "RING_051",
+      "member_accounts": [
+        "SMURF_0_5",
+        "SMURF_0_1",
+        "SMURF_0_8",
+        "SMURF_0_6",
+        "SMURF_0_2",
+        "SMURF_0_7",
+        "SMURF_0_3",
+        "AGG_0",
+        "SMURF_0_4",
+        "SMURF_0_9",
+        "SMURF_0_0",
+        "SMURF_0_10",
+        "SMURF_0_11"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_052",
+      "member_accounts": [
+        "SMURF_1_10",
+        "AGG_1",
+        "SMURF_1_6",
+        "SMURF_1_9",
+        "SMURF_1_0",
+        "SMURF_1_2",
+        "SMURF_1_5",
+        "SMURF_1_3",
+        "SMURF_1_1",
+        "SMURF_1_8",
+        "SMURF_1_4",
+        "SMURF_1_11",
+        "SMURF_1_7"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_053",
+      "member_accounts": [
+        "SMURF_10_11",
+        "SMURF_10_2",
+        "SMURF_10_0",
+        "SMURF_10_9",
+        "SMURF_10_4",
+        "AGG_10",
+        "SMURF_10_7",
+        "SMURF_10_6",
+        "SMURF_10_10",
+        "SMURF_10_1",
+        "SMURF_10_8",
+        "SMURF_10_3",
+        "SMURF_10_5"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_054",
+      "member_accounts": [
+        "SMURF_11_1",
+        "SMURF_11_3",
+        "SMURF_11_4",
+        "SMURF_11_5",
+        "SMURF_11_10",
+        "SMURF_11_2",
+        "SMURF_11_0",
+        "AGG_11",
+        "SMURF_11_8",
+        "SMURF_11_9",
+        "SMURF_11_6",
+        "SMURF_11_11",
+        "SMURF_11_7"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_055",
+      "member_accounts": [
+        "SMURF_12_4",
+        "SMURF_12_11",
+        "SMURF_12_8",
+        "SMURF_12_9",
+        "SMURF_12_3",
+        "SMURF_12_7",
+        "AGG_12",
+        "SMURF_12_6",
+        "SMURF_12_0",
+        "SMURF_12_5",
+        "SMURF_12_2",
+        "SMURF_12_10",
+        "SMURF_12_1"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_056",
+      "member_accounts": [
+        "SMURF_13_11",
+        "SMURF_13_2",
+        "SMURF_13_1",
+        "SMURF_13_3",
+        "AGG_13",
+        "SMURF_13_7",
+        "SMURF_13_6",
+        "SMURF_13_9",
+        "SMURF_13_5",
+        "SMURF_13_0",
+        "SMURF_13_10",
+        "SMURF_13_4",
+        "SMURF_13_8"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_057",
+      "member_accounts": [
+        "SMURF_14_2",
+        "SMURF_14_7",
+        "SMURF_14_10",
+        "SMURF_14_9",
+        "SMURF_14_5",
+        "SMURF_14_0",
+        "SMURF_14_6",
+        "SMURF_14_11",
+        "AGG_14",
+        "SMURF_14_1",
+        "SMURF_14_4",
+        "SMURF_14_3",
+        "SMURF_14_8"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_058",
+      "member_accounts": [
+        "SMURF_15_10",
+        "AGG_15",
+        "SMURF_15_2",
+        "SMURF_15_1",
+        "SMURF_15_4",
+        "SMURF_15_9",
+        "SMURF_15_3",
+        "SMURF_15_7",
+        "SMURF_15_5",
+        "SMURF_15_6",
+        "SMURF_15_8",
+        "SMURF_15_11",
+        "SMURF_15_0"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_059",
+      "member_accounts": [
+        "SMURF_16_2",
+        "SMURF_16_1",
+        "SMURF_16_11",
+        "SMURF_16_10",
+        "SMURF_16_0",
+        "SMURF_16_4",
+        "SMURF_16_6",
+        "SMURF_16_3",
+        "SMURF_16_9",
+        "SMURF_16_7",
+        "SMURF_16_8",
+        "SMURF_16_5",
+        "AGG_16"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_060",
+      "member_accounts": [
+        "SMURF_17_7",
+        "SMURF_17_1",
+        "SMURF_17_3",
+        "SMURF_17_5",
+        "SMURF_17_11",
+        "SMURF_17_6",
+        "SMURF_17_8",
+        "SMURF_17_2",
+        "AGG_17",
+        "SMURF_17_4",
+        "SMURF_17_9",
+        "SMURF_17_10",
+        "SMURF_17_0"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_061",
+      "member_accounts": [
+        "SMURF_18_1",
+        "SMURF_18_2",
+        "SMURF_18_3",
+        "SMURF_18_4",
+        "SMURF_18_11",
+        "SMURF_18_9",
+        "SMURF_18_6",
+        "SMURF_18_8",
+        "AGG_18",
+        "SMURF_18_10",
+        "SMURF_18_0",
+        "SMURF_18_5",
+        "SMURF_18_7"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_062",
+      "member_accounts": [
+        "SMURF_19_9",
+        "SMURF_19_10",
+        "SMURF_19_2",
+        "SMURF_19_1",
+        "SMURF_19_3",
+        "SMURF_19_4",
+        "SMURF_19_7",
+        "SMURF_19_0",
+        "SMURF_19_5",
+        "SMURF_19_8",
+        "AGG_19",
+        "SMURF_19_6",
+        "SMURF_19_11"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_063",
+      "member_accounts": [
+        "SMURF_2_10",
+        "SMURF_2_3",
+        "SMURF_2_11",
+        "SMURF_2_6",
+        "SMURF_2_8",
+        "SMURF_2_2",
+        "SMURF_2_0",
+        "SMURF_2_7",
+        "SMURF_2_9",
+        "AGG_2",
+        "SMURF_2_4",
+        "SMURF_2_1",
+        "SMURF_2_5"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_064",
+      "member_accounts": [
+        "SMURF_20_1",
+        "SMURF_20_0",
+        "SMURF_20_4",
+        "SMURF_20_7",
+        "SMURF_20_11",
+        "SMURF_20_5",
+        "SMURF_20_10",
+        "SMURF_20_8",
+        "AGG_20",
+        "SMURF_20_3",
+        "SMURF_20_6",
+        "SMURF_20_2",
+        "SMURF_20_9"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_065",
+      "member_accounts": [
+        "SMURF_21_0",
+        "SMURF_21_4",
+        "SMURF_21_1",
+        "SMURF_21_11",
+        "SMURF_21_8",
+        "AGG_21",
+        "SMURF_21_5",
+        "SMURF_21_3",
+        "SMURF_21_10",
+        "SMURF_21_9",
+        "SMURF_21_2",
+        "SMURF_21_6",
+        "SMURF_21_7"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_066",
+      "member_accounts": [
+        "SMURF_22_6",
+        "SMURF_22_1",
+        "SMURF_22_9",
+        "SMURF_22_3",
+        "SMURF_22_2",
+        "SMURF_22_7",
+        "SMURF_22_8",
+        "SMURF_22_4",
+        "SMURF_22_5",
+        "SMURF_22_0",
+        "SMURF_22_10",
+        "AGG_22",
+        "SMURF_22_11"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_067",
+      "member_accounts": [
+        "SMURF_23_1",
+        "SMURF_23_3",
+        "SMURF_23_10",
+        "SMURF_23_4",
+        "SMURF_23_2",
+        "SMURF_23_8",
+        "SMURF_23_7",
+        "AGG_23",
+        "SMURF_23_6",
+        "SMURF_23_5",
+        "SMURF_23_0",
+        "SMURF_23_9",
+        "SMURF_23_11"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_068",
+      "member_accounts": [
+        "SMURF_24_11",
+        "SMURF_24_0",
+        "SMURF_24_2",
+        "SMURF_24_6",
+        "SMURF_24_9",
+        "SMURF_24_10",
+        "SMURF_24_8",
+        "SMURF_24_1",
+        "SMURF_24_7",
+        "SMURF_24_3",
+        "AGG_24",
+        "SMURF_24_5",
+        "SMURF_24_4"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_069",
+      "member_accounts": [
+        "SMURF_25_10",
+        "SMURF_25_3",
+        "SMURF_25_11",
+        "SMURF_25_0",
+        "SMURF_25_8",
+        "SMURF_25_6",
+        "SMURF_25_9",
+        "SMURF_25_2",
+        "SMURF_25_4",
+        "SMURF_25_7",
+        "SMURF_25_1",
+        "SMURF_25_5",
+        "AGG_25"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_070",
+      "member_accounts": [
+        "SMURF_26_10",
+        "SMURF_26_6",
+        "SMURF_26_11",
+        "SMURF_26_1",
+        "SMURF_26_0",
+        "SMURF_26_7",
+        "SMURF_26_8",
+        "SMURF_26_2",
+        "SMURF_26_5",
+        "AGG_26",
+        "SMURF_26_4",
+        "SMURF_26_9",
+        "SMURF_26_3"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_071",
+      "member_accounts": [
+        "SMURF_27_6",
+        "SMURF_27_4",
+        "SMURF_27_9",
+        "SMURF_27_7",
+        "SMURF_27_2",
+        "SMURF_27_3",
+        "AGG_27",
+        "SMURF_27_10",
+        "SMURF_27_1",
+        "SMURF_27_5",
+        "SMURF_27_11",
+        "SMURF_27_0",
+        "SMURF_27_8"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_072",
+      "member_accounts": [
+        "SMURF_28_5",
+        "SMURF_28_3",
+        "SMURF_28_9",
+        "SMURF_28_10",
+        "SMURF_28_8",
+        "AGG_28",
+        "SMURF_28_4",
+        "SMURF_28_1",
+        "SMURF_28_6",
+        "SMURF_28_2",
+        "SMURF_28_11",
+        "SMURF_28_0",
+        "SMURF_28_7"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_073",
+      "member_accounts": [
+        "SMURF_29_0",
+        "SMURF_29_6",
+        "SMURF_29_11",
+        "SMURF_29_10",
+        "SMURF_29_4",
+        "SMURF_29_2",
+        "SMURF_29_9",
+        "AGG_29",
+        "SMURF_29_5",
+        "SMURF_29_3",
+        "SMURF_29_8",
+        "SMURF_29_7",
+        "SMURF_29_1"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_074",
+      "member_accounts": [
+        "SMURF_3_1",
+        "SMURF_3_0",
+        "SMURF_3_10",
+        "AGG_3",
+        "SMURF_3_8",
+        "SMURF_3_6",
+        "SMURF_3_11",
+        "SMURF_3_9",
+        "SMURF_3_4",
+        "SMURF_3_3",
+        "SMURF_3_7",
+        "SMURF_3_2",
+        "SMURF_3_5"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_075",
+      "member_accounts": [
+        "SMURF_4_2",
+        "SMURF_4_6",
+        "SMURF_4_3",
+        "SMURF_4_10",
+        "SMURF_4_5",
+        "AGG_4",
+        "SMURF_4_7",
+        "SMURF_4_1",
+        "SMURF_4_4",
+        "SMURF_4_8",
+        "SMURF_4_11",
+        "SMURF_4_9",
+        "SMURF_4_0"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_076",
+      "member_accounts": [
+        "SMURF_5_4",
+        "SMURF_5_3",
+        "SMURF_5_0",
+        "SMURF_5_1",
+        "AGG_5",
+        "SMURF_5_9",
+        "SMURF_5_10",
+        "SMURF_5_2",
+        "SMURF_5_7",
+        "SMURF_5_5",
+        "SMURF_5_11",
+        "SMURF_5_8",
+        "SMURF_5_6"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_077",
+      "member_accounts": [
+        "AGG_6",
+        "SMURF_6_2",
+        "SMURF_6_3",
+        "SMURF_6_8",
+        "SMURF_6_0",
+        "SMURF_6_5",
+        "SMURF_6_11",
+        "SMURF_6_6",
+        "SMURF_6_10",
+        "SMURF_6_7",
+        "SMURF_6_4",
+        "SMURF_6_1",
+        "SMURF_6_9"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_078",
+      "member_accounts": [
+        "SMURF_7_7",
+        "SMURF_7_2",
+        "SMURF_7_8",
+        "SMURF_7_9",
+        "SMURF_7_11",
+        "SMURF_7_10",
+        "SMURF_7_5",
+        "SMURF_7_6",
+        "SMURF_7_1",
+        "SMURF_7_3",
+        "SMURF_7_0",
+        "SMURF_7_4",
+        "AGG_7"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_079",
+      "member_accounts": [
+        "SMURF_8_8",
+        "SMURF_8_2",
+        "SMURF_8_10",
+        "AGG_8",
+        "SMURF_8_11",
+        "SMURF_8_4",
+        "SMURF_8_1",
+        "SMURF_8_3",
+        "SMURF_8_0",
+        "SMURF_8_6",
+        "SMURF_8_5",
+        "SMURF_8_7",
+        "SMURF_8_9"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_080",
+      "member_accounts": [
+        "SMURF_9_1",
+        "SMURF_9_2",
+        "SMURF_9_5",
+        "SMURF_9_9",
+        "SMURF_9_6",
+        "SMURF_9_4",
+        "SMURF_9_11",
+        "SMURF_9_8",
+        "SMURF_9_0",
+        "SMURF_9_3",
+        "AGG_9",
+        "SMURF_9_7",
+        "SMURF_9_10"
+      ],
+      "pattern_type": "smurfing",
+      "risk_score": 1.92
+    },
+    {
+      "ring_id": "RING_081",
+      "member_accounts": [
+        "SHELL_6_2",
+        "SHELL_6_0",
+        "SHELL_6_3",
+        "SHELL_6_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_082",
+      "member_accounts": [
+        "SHELL_39_2",
+        "SHELL_39_3",
+        "SHELL_39_1",
+        "SHELL_39_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_083",
+      "member_accounts": [
+        "NORMAL_82",
+        "NORMAL_203",
+        "NORMAL_2659"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_084",
+      "member_accounts": [
+        "NORMAL_2179",
+        "NORMAL_919",
+        "NORMAL_655"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_085",
+      "member_accounts": [
+        "NORMAL_3629",
+        "NORMAL_3591",
+        "NORMAL_1247"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_086",
+      "member_accounts": [
+        "SHELL_16_0",
+        "SHELL_16_1",
+        "SHELL_16_2",
+        "SHELL_16_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_087",
+      "member_accounts": [
+        "NORMAL_2271",
+        "NORMAL_1727",
+        "NORMAL_1100",
+        "NORMAL_2176"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_088",
+      "member_accounts": [
+        "NORMAL_3570",
+        "NORMAL_484",
+        "NORMAL_582"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_089",
+      "member_accounts": [
+        "SHELL_33_2",
+        "SHELL_33_0",
+        "SHELL_33_3",
+        "SHELL_33_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_090",
+      "member_accounts": [
+        "SHELL_32_2",
+        "SHELL_32_3",
+        "SHELL_32_1",
+        "SHELL_32_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_091",
+      "member_accounts": [
+        "NORMAL_2342",
+        "NORMAL_120",
+        "NORMAL_3155"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_092",
+      "member_accounts": [
+        "NORMAL_961",
+        "NORMAL_3163",
+        "NORMAL_3834",
+        "NORMAL_1451"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_093",
+      "member_accounts": [
+        "SHELL_20_3",
+        "SHELL_20_0",
+        "SHELL_20_1",
+        "SHELL_20_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_094",
+      "member_accounts": [
+        "SHELL_37_0",
+        "SHELL_37_2",
+        "SHELL_37_1",
+        "SHELL_37_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_095",
+      "member_accounts": [
+        "SHELL_0_2",
+        "SHELL_0_3",
+        "SHELL_0_1",
+        "SHELL_0_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_096",
+      "member_accounts": [
+        "SHELL_36_0",
+        "SHELL_36_2",
+        "SHELL_36_3",
+        "SHELL_36_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_097",
+      "member_accounts": [
+        "NORMAL_3330",
+        "NORMAL_597",
+        "NORMAL_2763"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_098",
+      "member_accounts": [
+        "NORMAL_1311",
+        "NORMAL_3369",
+        "NORMAL_2152",
+        "NORMAL_80"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_099",
+      "member_accounts": [
+        "NORMAL_1310",
+        "NORMAL_828",
+        "NORMAL_963",
+        "NORMAL_2126"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_100",
+      "member_accounts": [
+        "SHELL_26_0",
+        "SHELL_26_3",
+        "SHELL_26_2",
+        "SHELL_26_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_101",
+      "member_accounts": [
+        "SHELL_34_2",
+        "SHELL_34_1",
+        "SHELL_34_0",
+        "SHELL_34_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_102",
+      "member_accounts": [
+        "NORMAL_3489",
+        "NORMAL_1628",
+        "NORMAL_2241",
+        "NORMAL_1372"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_103",
+      "member_accounts": [
+        "NORMAL_3633",
+        "NORMAL_1943",
+        "NORMAL_332"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_104",
+      "member_accounts": [
+        "NORMAL_3316",
+        "NORMAL_1721",
+        "NORMAL_3597",
+        "NORMAL_2380",
+        "NORMAL_365"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_105",
+      "member_accounts": [
+        "NORMAL_2347",
+        "NORMAL_32",
+        "NORMAL_1242"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_106",
+      "member_accounts": [
+        "NORMAL_2174",
+        "NORMAL_368",
+        "NORMAL_3536",
+        "NORMAL_1972"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_107",
+      "member_accounts": [
+        "NORMAL_2420",
+        "NORMAL_1185",
+        "NORMAL_1710"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_108",
+      "member_accounts": [
+        "NORMAL_387",
+        "NORMAL_473",
+        "NORMAL_3009"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_109",
+      "member_accounts": [
+        "SHELL_19_3",
+        "SHELL_19_0",
+        "SHELL_19_1",
+        "SHELL_19_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_110",
+      "member_accounts": [
+        "NORMAL_1500",
+        "NORMAL_205",
+        "NORMAL_2006"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_111",
+      "member_accounts": [
+        "SHELL_38_1",
+        "SHELL_38_0",
+        "SHELL_38_3",
+        "SHELL_38_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_112",
+      "member_accounts": [
+        "NORMAL_238",
+        "NORMAL_1362",
+        "NORMAL_2101"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_113",
+      "member_accounts": [
+        "NORMAL_1471",
+        "NORMAL_2238",
+        "NORMAL_1183",
+        "NORMAL_2614"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_114",
+      "member_accounts": [
+        "SHELL_25_2",
+        "SHELL_25_3",
+        "SHELL_25_0",
+        "SHELL_25_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_115",
+      "member_accounts": [
+        "SHELL_1_2",
+        "SHELL_1_1",
+        "SHELL_1_0",
+        "SHELL_1_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_116",
+      "member_accounts": [
+        "SHELL_18_2",
+        "SHELL_18_3",
+        "SHELL_18_0",
+        "SHELL_18_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_117",
+      "member_accounts": [
+        "NORMAL_435",
+        "NORMAL_715",
+        "NORMAL_975",
+        "NORMAL_2139"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_118",
+      "member_accounts": [
+        "SHELL_24_2",
+        "SHELL_24_3",
+        "SHELL_24_1",
+        "SHELL_24_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_119",
+      "member_accounts": [
+        "NORMAL_3999",
+        "NORMAL_1278",
+        "NORMAL_3290"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_120",
+      "member_accounts": [
+        "SHELL_14_2",
+        "SHELL_14_0",
+        "SHELL_14_3",
+        "SHELL_14_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_121",
+      "member_accounts": [
+        "SHELL_9_1",
+        "SHELL_9_3",
+        "SHELL_9_0",
+        "SHELL_9_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_122",
+      "member_accounts": [
+        "SHELL_15_3",
+        "SHELL_15_0",
+        "SHELL_15_1",
+        "SHELL_15_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_123",
+      "member_accounts": [
+        "NORMAL_3139",
+        "NORMAL_648",
+        "NORMAL_756"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_124",
+      "member_accounts": [
+        "SHELL_5_3",
+        "SHELL_5_2",
+        "SHELL_5_1",
+        "SHELL_5_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_125",
+      "member_accounts": [
+        "NORMAL_1656",
+        "NORMAL_2629",
+        "NORMAL_2504"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_126",
+      "member_accounts": [
+        "SHELL_11_0",
+        "SHELL_11_3",
+        "SHELL_11_2",
+        "SHELL_11_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_127",
+      "member_accounts": [
+        "SHELL_23_2",
+        "SHELL_23_1",
+        "SHELL_23_3",
+        "SHELL_23_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_128",
+      "member_accounts": [
+        "SHELL_12_1",
+        "SHELL_12_2",
+        "SHELL_12_3",
+        "SHELL_12_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_129",
+      "member_accounts": [
+        "NORMAL_2630",
+        "NORMAL_109",
+        "NORMAL_3748"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_130",
+      "member_accounts": [
+        "NORMAL_2761",
+        "NORMAL_1275",
+        "NORMAL_557"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_131",
+      "member_accounts": [
+        "NORMAL_1395",
+        "NORMAL_1091",
+        "NORMAL_3024"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_132",
+      "member_accounts": [
+        "NORMAL_1074",
+        "NORMAL_542",
+        "NORMAL_2597",
+        "NORMAL_3780"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_133",
+      "member_accounts": [
+        "NORMAL_1021",
+        "NORMAL_2476",
+        "NORMAL_3312"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_134",
+      "member_accounts": [
+        "NORMAL_694",
+        "NORMAL_1930",
+        "NORMAL_3946",
+        "NORMAL_3211"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_135",
+      "member_accounts": [
+        "SHELL_35_2",
+        "SHELL_35_1",
+        "SHELL_35_0",
+        "SHELL_35_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_136",
+      "member_accounts": [
+        "NORMAL_3278",
+        "NORMAL_177",
+        "NORMAL_1940"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_137",
+      "member_accounts": [
+        "NORMAL_1583",
+        "NORMAL_1801",
+        "NORMAL_2936",
+        "NORMAL_2961"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_138",
+      "member_accounts": [
+        "SHELL_8_2",
+        "SHELL_8_0",
+        "SHELL_8_3",
+        "SHELL_8_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_139",
+      "member_accounts": [
+        "SHELL_3_3",
+        "SHELL_3_0",
+        "SHELL_3_1",
+        "SHELL_3_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_140",
+      "member_accounts": [
+        "SHELL_17_1",
+        "SHELL_17_3",
+        "SHELL_17_2",
+        "SHELL_17_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_141",
+      "member_accounts": [
+        "NORMAL_370",
+        "NORMAL_3121",
+        "NORMAL_3989"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_142",
+      "member_accounts": [
+        "NORMAL_2812",
+        "NORMAL_1568",
+        "NORMAL_3806"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_143",
+      "member_accounts": [
+        "NORMAL_1595",
+        "NORMAL_2960",
+        "NORMAL_3259"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_144",
+      "member_accounts": [
+        "SHELL_4_3",
+        "SHELL_4_2",
+        "SHELL_4_0",
+        "SHELL_4_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_145",
+      "member_accounts": [
+        "SHELL_31_1",
+        "SHELL_31_3",
+        "SHELL_31_0",
+        "SHELL_31_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_146",
+      "member_accounts": [
+        "SHELL_27_3",
+        "SHELL_27_1",
+        "SHELL_27_2",
+        "SHELL_27_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_147",
+      "member_accounts": [
+        "SHELL_21_1",
+        "SHELL_21_2",
+        "SHELL_21_3",
+        "SHELL_21_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_148",
+      "member_accounts": [
+        "SHELL_2_1",
+        "SHELL_2_3",
+        "SHELL_2_2",
+        "SHELL_2_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_149",
+      "member_accounts": [
+        "NORMAL_2235",
+        "NORMAL_688",
+        "NORMAL_1693"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_150",
+      "member_accounts": [
+        "SHELL_30_0",
+        "SHELL_30_1",
+        "SHELL_30_2",
+        "SHELL_30_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_151",
+      "member_accounts": [
+        "NORMAL_1365",
+        "NORMAL_1488",
+        "NORMAL_3762"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_152",
+      "member_accounts": [
+        "NORMAL_1147",
+        "NORMAL_957",
+        "NORMAL_3004"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_153",
+      "member_accounts": [
+        "SHELL_28_0",
+        "SHELL_28_2",
+        "SHELL_28_3",
+        "SHELL_28_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_154",
+      "member_accounts": [
+        "NORMAL_1033",
+        "NORMAL_3538",
+        "NORMAL_553"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_155",
+      "member_accounts": [
+        "SHELL_7_1",
+        "SHELL_7_0",
+        "SHELL_7_3",
+        "SHELL_7_2"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_156",
+      "member_accounts": [
+        "SHELL_29_0",
+        "SHELL_29_2",
+        "SHELL_29_1",
+        "SHELL_29_3"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_157",
+      "member_accounts": [
+        "SHELL_10_2",
+        "SHELL_10_3",
+        "SHELL_10_1",
+        "SHELL_10_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_158",
+      "member_accounts": [
+        "SHELL_22_2",
+        "SHELL_22_1",
+        "SHELL_22_3",
+        "SHELL_22_0"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    },
+    {
+      "ring_id": "RING_159",
+      "member_accounts": [
+        "SHELL_13_3",
+        "SHELL_13_0",
+        "SHELL_13_2",
+        "SHELL_13_1"
+      ],
+      "pattern_type": "shell",
+      "risk_score": 20.0
+    }
+  ],
+  "summary": {
+    "total_accounts_analyzed": 4807,
+    "suspicious_accounts_flagged": 470,
+    "fraud_rings_detected": 159,
+    "processing_time_seconds": 4.56
+  },
+  "transactions": [
+    {
+      "transaction_id": "TXN000001",
+      "sender_id": "CYCLE_0_0",
+      "receiver_id": "CYCLE_0_1",
+      "amount": 5608.21,
+      "timestamp": 
