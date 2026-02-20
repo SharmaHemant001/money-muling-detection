@@ -16,7 +16,7 @@ function App() {
     formData.append("file", file);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/upload", {
+      const response = await fetch("https://money-muling-detection-6.onrender.com/upload", {
         method: "POST",
         body: formData,
       });
