@@ -1,7 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
 import CytoscapeComponent from "react-cytoscapejs";
-import Papa from "papaparse";
 import axios from "axios";
 
 export default function App() {
@@ -9,31 +8,39 @@ export default function App() {
   const [rings, setRings] = useState([]);
   const [report, setReport] = useState(null);
 
-  const handleUpload = (e) => {
-    const file = e.target.files[0];
+const handleUpload = async (e) => {
+  const file = e.target.files[0];
 
-    Papa.parse(file, {
-      header: true,
-      skipEmptyLines: true,
-      complete: async (results) => {
-        try {
-          const res = await axios.post(
-            "https://YOUR_BACKEND_URL/analyze",
-            results.data
-          );
+  if (!file) {
+    alert("Please select a CSV file");
+    return;
+  }
 
-          const { suspicious_accounts, fraud_rings } = res.data;
+  const formData = new FormData();
+  formData.append("file", file);
 
-          buildGraph(results.data, suspicious_accounts);
-          setRings(fraud_rings);
-          setReport(res.data);
-        } catch {
-          alert("Backend error");
+  try {
+    const res = await axios.post(
+      "http://127.0.0.1:8000/upload",
+      formData,
+      {
+        headers: {
+          "Content-Type": "multipart/form-data"
         }
-      },
-    });
-  };
+      }
+    );
 
+    const { suspicious_accounts, fraud_rings, transactions } = res.data;
+
+    buildGraph(transactions, suspicious_accounts);
+    setRings(fraud_rings);
+    setReport(res.data);
+
+  } catch (error) {
+    console.error(error);
+    alert("Backend error");
+  }
+};
   const buildGraph = (txns, suspicious) => {
     const nodeMap = new Map();
     const edges = [];

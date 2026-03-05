@@ -1,4 +1,4 @@
-from app.config import SHELL_MAX_DEGREE
+from ..config import SHELL_MAX_DEGREE
 import networkx as nx
 
 def detect_shells(G):

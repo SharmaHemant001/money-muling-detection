@@ -20,10 +20,10 @@ function App() {
       setLoading(true);
 
       const response = await fetch(
-        "https://money-muling-detection-6.onrender.com/upload",
+        "http://127.0.0.1:8000/upload",
         {
           method: "POST",
-          body: formData
+          body: formData,
         }
       );
 

@@ -1,4 +1,4 @@
-from app.config import WEIGHT_CYCLE, WEIGHT_SMURFING, WEIGHT_SHELL, MAX_SCORE
+from ..config import WEIGHT_CYCLE, WEIGHT_SMURFING, WEIGHT_SHELL, MAX_SCORE
 
 def score_accounts(G, cycles, smurfing, shells):
 

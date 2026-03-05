@@ -1,5 +1,5 @@
 import networkx as nx
-from app.config import CYCLE_MIN_LENGTH, CYCLE_MAX_LENGTH
+from ..config import CYCLE_MIN_LENGTH, CYCLE_MAX_LENGTH
 
 def detect_cycles(G):
     cycles = []

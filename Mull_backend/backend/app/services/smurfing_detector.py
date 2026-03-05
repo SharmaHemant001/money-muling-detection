@@ -1,5 +1,5 @@
 from datetime import timedelta
-from app.config import SMURFING_THRESHOLD
+from ..config import SMURFING_THRESHOLD
 
 WINDOW_HOURS = 72
 DOMINANT_SENDER_RATIO = 0.7  # 70% from same sender = likely normal

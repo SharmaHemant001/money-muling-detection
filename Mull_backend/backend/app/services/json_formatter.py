@@ -1,4 +1,4 @@
-﻿from app.services.ring_manager import generate_rings
+﻿from .ring_manager import generate_rings
 
 
 def format_response(scores, G, processing_time, cycles=None, smurfing=None, shells=None):
