@@ -21,7 +21,7 @@ const handleUpload = async (e) => {
 
   try {
     const res = await axios.post(
-      "${process.env.REACT_APP_API_URL}/upload",
+      "https://money-muling-detection-7.onrender.com/upload",
       formData,
       {
         headers: {
