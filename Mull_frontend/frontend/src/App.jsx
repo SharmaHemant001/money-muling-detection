@@ -4,7 +4,8 @@ import GraphVisualization from "./components/GraphVisualization";
 function App() {
   const [file, setFile] = useState(null);
   const [graphData, setGraphData] = useState(null);
-  const [backendData, setBackendData] = useState(null); // ✅ ADD THIS
+  const [backendData, setBackendData] = useState(null);
+  const [loading, setLoading] = useState(false);
 
   const handleUpload = async () => {
     if (!file) {
@@ -16,15 +17,23 @@ function App() {
     formData.append("file", file);
 
     try {
-      const response = await fetch("https://money-muling-detection-6.onrender.com/upload", {
-        method: "POST",
-        body: formData,
-      });
+      setLoading(true);
+
+      const response = await fetch(
+        "https://money-muling-detection-6.onrender.com/upload",
+        {
+          method: "POST",
+          body: formData
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error("Server error: " + response.status);
+      }
 
       const data = await response.json();
       console.log("Backend Response:", data);
 
-      // ✅ Save full backend response
       setBackendData(data);
 
       const nodeMap = new Map();
@@ -35,24 +44,26 @@ function App() {
       const transactions = data.transactions || [];
 
       const suspiciousSet = new Set(
-        suspiciousAccounts.map(acc => acc.account_id)
+        suspiciousAccounts.map(function (acc) {
+          return acc.account_id;
+        })
       );
 
       const ringMap = {};
-      fraudRings.forEach(ring => {
+      fraudRings.forEach(function (ring) {
         if (ring.member_accounts) {
-          ring.member_accounts.forEach(acc => {
+          ring.member_accounts.forEach(function (acc) {
             ringMap[acc] = ring.ring_id;
           });
         }
       });
 
-      transactions.forEach(tx => {
+      transactions.forEach(function (tx) {
         if (!nodeMap.has(tx.sender_id)) {
           nodeMap.set(tx.sender_id, {
             id: tx.sender_id,
             suspicious: suspiciousSet.has(tx.sender_id),
-            ring: ringMap[tx.sender_id] || null,
+            ring: ringMap[tx.sender_id] || null
           });
         }
 
@@ -60,45 +71,52 @@ function App() {
           nodeMap.set(tx.receiver_id, {
             id: tx.receiver_id,
             suspicious: suspiciousSet.has(tx.receiver_id),
-            ring: ringMap[tx.receiver_id] || null,
+            ring: ringMap[tx.receiver_id] || null
           });
         }
 
         links.push({
           source: tx.sender_id,
           target: tx.receiver_id,
-          amount: tx.amount,
+          amount: tx.amount
         });
       });
 
       setGraphData({
         nodes: Array.from(nodeMap.values()),
-        links: links,
+        links: links
       });
 
+      setLoading(false);
     } catch (error) {
       console.error("Upload failed:", error);
+      alert("Upload failed. Check console.");
+      setLoading(false);
     }
   };
 
   return (
-    <div>
+    <div style={{ padding: "20px" }}>
       <h2>Money Muling Detection Engine</h2>
 
       <input
         type="file"
         accept=".csv"
-        onChange={(e) => setFile(e.target.files[0])}
+        onChange={function (e) {
+          setFile(e.target.files[0]);
+        }}
       />
 
-      <button onClick={handleUpload}>
-        Upload CSV
+      <button onClick={handleUpload} disabled={!file || loading}>
+        {loading ? "Processing..." : "Upload CSV"}
       </button>
 
-      <GraphVisualization
-        graphData={graphData}
-        rings={backendData?.fraud_rings || []}
-      />
+      {graphData && (
+        <GraphVisualization
+          graphData={graphData}
+          rings={backendData ? backendData.fraud_rings : []}
+        />
+      )}
     </div>
   );
 }

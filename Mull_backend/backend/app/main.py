@@ -1,7 +1,20 @@
+import os
+import sys
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.routes.upload import router as upload_router
+if __package__ in (None, ""):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    backend_dir = os.path.dirname(script_dir)
+
+    if sys.path and os.path.abspath(sys.path[0]) == script_dir:
+        sys.path.pop(0)
+
+    sys.path.insert(0, backend_dir)
+    from app.routes.upload import router as upload_router
+else:
+    from .routes.upload import router as upload_router
 
 app = FastAPI(title="Money Muling Detection Engine")
 
