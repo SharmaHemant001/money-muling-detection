@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.0",
+    "axios": "^1.13.6",
+    "cytoscape": "^3.33.1",
+    "cytoscape-cose-bilkent": "^4.1.0",
     "d3-force": "^3.0.0",
     "framer-motion": "^12.34.2",
     "lucide-react": "^0.575.0",
     "react": "^19.2.0",
+    "react-cytoscapejs": "^2.0.0",
     "react-dom": "^19.2.0",
     "react-force-graph-2d": "^1.29.1",
     "vis-network": "^10.0.2"
